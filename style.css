@@ -254,28 +254,28 @@ section{
     display: block;
 }
 .about .row .box:nth-child(1) .progress:nth-child(2) .bar span{
-    width: 80%;
+    width: 100%;
 }
 .about .row .box:nth-child(1) .progress:nth-child(3) .bar span{
-    width: 80%;
+    width: 100%;
 }
 .about .row .box:nth-child(1) .progress:nth-child(4) .bar span{
-    width: 35%;
+    width: 100%;
 }
 .about .row .box:nth-child(1) .progress:nth-child(5) .bar span{
-    width: 70%;
+    width: 100%;
 }
 .about .row .box:nth-child(2) .progress:nth-child(2) .bar span{
-    width: 60%;
+    width: 100%;
 }
 .about .row .box:nth-child(2) .progress:nth-child(3) .bar span{
-    width: 60%;
+    width: 100%;
 }
 .about .row .box:nth-child(2) .progress:nth-child(4) .bar span{
-    width: 60%;
+    width: 100%;
 }
 .about .row .box:nth-child(2) .progress:nth-child(5) .bar span{
-    width: 60%;
+    width: 100%;
 }
 .about .row .box .experience{
     padding:0 1.8rem;
